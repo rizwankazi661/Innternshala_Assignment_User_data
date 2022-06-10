@@ -43,6 +43,6 @@ app.get("/", (req, res) => {
 //   console.log("The Server address- http://localhost:3000/");
 // });
 
-server.listen(port,()=>{
+app.listen(port,()=>{
   console.log("server listening to port "+port);
 });
