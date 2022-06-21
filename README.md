@@ -1,7 +1,5 @@
 # Innternshala_Assignment_User_data
 
-# Fetch-API-Assingment
-
 # Steps to follow:
 
 > npm install express
